@@ -7,4 +7,4 @@
 *Version control     :* Git  
 *Scrum                   :* Jira  
 
-*Comercial project:* Mineralogy assessment from XRF measurments: [mwksolution.eu.pythonanywhere.com](mwksolution.eu.pythonanywhere.com)  
+*Comercial project:* Mineralogy assessment from XRF measurments: **[mwksolution.eu.pythonanywhere.com](https://mwksolution.eu.pythonanywhere.com)**  
