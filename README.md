@@ -1,5 +1,6 @@
-# MWK Solution
-*Machine Learning:* Numpy, Pandas, TensorFlow, Keras, SciPy, Matplotlib, Plotly  
+# MWK Solution  
+*Data Science:* Numpy, Pandas, SciPy, Matplotlib, Plotly  
+*Machine Learning:* TensorFlow, Keras, PyTorch  
 *Image processing:*	OpenCV  
 *Web:* Flask, Dash (plotly.js)  
 *Databases:* MySQL, SQLite, SQLAlchemy  
