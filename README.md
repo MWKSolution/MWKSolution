@@ -9,4 +9,4 @@
 *Deploy:* Docker  
 *Scrum:* Jira  
 
-*Comercial project:* Mineralogy assessment from XRF measurments: **[mwksolution.eu.pythonanywhere.com](https://mwksolution.eu.pythonanywhere.com)**
+
