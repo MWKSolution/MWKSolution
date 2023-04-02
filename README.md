@@ -1,12 +1,9 @@
-# MWK Solution  
+# MWK Solution ![](https://www.codewars.com/users/mwk1020/badges/micro)
 *Data Science:* Numpy, Pandas, SciPy, Matplotlib, Plotly  
-*Machine Learning:* TensorFlow, Keras, PyTorch  
-*Image processing:*	OpenCV  
-*Web:* Flask, Dash (plotly.js)  
+*Web:* Flask, Dash, FastAPI, Celery  
 *Databases:* MySQL, SQLite, SQLAlchemy, Redis  
+*Machine Learning:* TensorFlow, Keras, PyTorch, OpenCV  
 *Tools:* PyCharm, Jupyter Notebook  
 *Version control:* Git  
-*Deploy:* Docker  
+*Deploy:* Pre-commit, Pytest, Docker, Docker compose, Jenkins  
 *Scrum:* Jira  
-
-
