@@ -3,6 +3,7 @@
 *Web:* Flask, Dash, FastAPI, Celery  
 *Databases:* MySQL, SQLite, SQLAlchemy, Redis  
 *Machine Learning:* TensorFlow, Keras, PyTorch, OpenCV  
+*Other frameworks:* Odoo  
 *Tools:* PyCharm, Jupyter Notebook  
 *Version control:* Git  
 *Deploy:* Pre-commit, Pytest, Docker, Docker compose, Jenkins  
